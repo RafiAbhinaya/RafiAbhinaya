@@ -1,4 +1,4 @@
-### Hi there! 👋
+# Hi there! 👋
 
 I'm Rafi, a passionate final-year student with a deep interest in data science and data analytics. I hold certifications in Python, SQL, and Data Analysis and have hands-on experience
 in data wrangling, Exploratory Data Analysis, and visualization. 
