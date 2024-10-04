@@ -9,7 +9,11 @@ I'm always eager to learn new stuffs and improve my skills to excel in this fiel
 Feel free to explore my repositories and connect with me if you'd like to collaborate or discuss anything!
 
 You can reach me through here!
-<a href=”https://www.linkedin.com/in/rafiabhinaya/"><img align=”left” src=”https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png” alt=”Rafi Abhinaya| LinkedIn” width=”35px”/></a>
+
+<a href="https://www.linkedin.com/in/rafiabhinaya/">
+    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Rafi Abhinaya | LinkedIn" width="35px"/>
+</a>
+
 
 
 <!---
