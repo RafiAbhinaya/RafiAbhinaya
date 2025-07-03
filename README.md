@@ -40,10 +40,6 @@ I'm always open to discussing new opportunities, collaborating on projects, or s
 
 Thanks for visiting my profile!
 
-<a href="https://www.linkedin.com/in/rafiabhinaya/">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Rafi Abhinaya | LinkedIn" width="35px"/>
-</a>
-
 
 
 <!---
